@@ -42,6 +42,7 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 * [rust-throw](https://github.com/daboross/rust-throw). A new experimental rust error handling library, meant to assist and build on existing error handling systems.
 * [burrito](https://github.com/withoutboats/burrito). A monadic IO interface in Rust.
 * [mimty](https://bitbucket.org/joshmorin/mimty). Fast, safe, self-contained MIME Type Identification for C and Rust.
+* [Way of Rhea](https://store.steampowered.com/app/1110620/Way_of_Rhea/?utm_source=wr). A Rust puzzle game six years in development shipped.
 
 # What's cooking on master?
 
